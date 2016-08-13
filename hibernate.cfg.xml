@@ -31,7 +31,5 @@
 
   <!-- Mention here all the model classes along with there package name -->
   <mapping class="com.dto.User"/>
-
  </session-factory>
 </hibernate-configuration>
-
